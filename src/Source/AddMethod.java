@@ -11,6 +11,6 @@ package Source;
  */
 public class AddMethod {
     public int add(int a, int b) {
-        return a + b;
+        return a + b + 1;
     }
 }
